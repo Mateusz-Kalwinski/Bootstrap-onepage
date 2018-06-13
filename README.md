@@ -11,7 +11,7 @@ I used:
   
 	- Bootstrap
   
-	- jQeury
+	- jQuery
   
 	- JavaScript
   
