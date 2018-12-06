@@ -2,7 +2,8 @@
 
 
 
-![alt text](https://github.com/Mateusz-Kalwinski/Landing-Page/blob/master/img/logo.png)
+
+<img src="https://github.com/Mateusz-Kalwinski/Landing-Page/blob/master/img/logo.png" width="150">
 
 
 Simple responsive landing page
